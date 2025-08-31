@@ -15,23 +15,6 @@
 | **Error Handling**              | Gracefully handles client/server errors with user-friendly messages.                                   | **Export Options** (future)    | Planned feature for CSV/PDF exports.            |
 | **API-ready Design** (future)   | Planned integration with banking APIs / UPI (e.g. Plaid, FinBox).                                      | **Smart Alerts** (future)      | Planned smart spending alerts.                  |
 
----
-
-## Demo Images 🌟
-
-> Replace these links with your actual image URLs (e.g., GitHub, Cloudinary)
-
-
-| **Interface**         | **Preview** |
-|-----------------------|-------------|
-| **Login Page** | ![Missed to add Login Demo Image](https://forget_to_add_image.png) | |
-| **Registration Page** | ![Missed to add reg. Demo Image](https://forget_to_add_image.png) | |
-| **Dashboard**          | <img src="https://github.com/its-maneeshk/.assets/blob/26c5f31d92646ab403e03dabb28f51cfe21a35ad/TrackMyFunds-Personal_Finance_Dashboard/TrackMyFunds-Personal_Finance_Dashboard-Home.png" width="800px"> |
-| **Add Transaction**    | <img src="https://github.com/its-maneeshk/.assets/blob/26c5f31d92646ab403e03dabb28f51cfe21a35ad/TrackMyFunds-Personal_Finance_Dashboard/TrackMyFunds-Personal_Finance_Dashboard-addTrxn.png" width="800px"> |
-| **Savings Goals**      | <img src="https://github.com/its-maneeshk/.assets/blob/26c5f31d92646ab403e03dabb28f51cfe21a35ad/TrackMyFunds-Personal_Finance_Dashboard/TrackMyFunds-Personal_Finance_Dashboard-savingGoal.png" width="800px"> |
-| **Profile**            | <img src="https://github.com/its-maneeshk/.assets/blob/26c5f31d92646ab403e03dabb28f51cfe21a35ad/TrackMyFunds-Personal_Finance_Dashboard/TrackMyFunds-Personal_Finance_Dashboard-profile.png" width="800px"> |
-
-
 
 ---
 
